@@ -1,32 +1,14 @@
 {
-  "type": "FeatureCollection",
-  "metadata": {
-    "generated": 1511489786000,
-    "title": "USGS Earthquakes",
-    "status": 200,
-    "api": "1.5.8",
-    "count": 12
-  },
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 7.1,
-        "place": "154km NW of Kota Ternate, Indonesia",
-        "time": 1416018701720,
-        "tsunami": 1,
-        "type": "earthquake",
-        "title": "M 7.1 - 154km NW of Kota Ternate, Indonesia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.5217,
-          1.8929,
-          45
-        ]
-      },
-      "id": "usc000sxh8"
-    }
-    ]
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
