@@ -27,26 +27,6 @@
         ]
       },
       "id": "usc000sxh8"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 7.1,
-        "place": "144km NE of Ndoi Island, Fiji",
-        "time": 1414868242380,
-        "tsunami": 1,
-        "type": "earthquake",
-        "title": "M 7.1 - 144km NE of Ndoi Island, Fiji"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -177.7587,
-          -19.6903,
-          434
-        ]
-      },
-      "id": "usc000stdc"
     }
     ]
 }
